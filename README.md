@@ -8,8 +8,12 @@ The template showcases a working version of a basic Petri net modeler whose elem
 
 ## Development Setup
 
-- link to demo-repo
-- use npm link
+Link to demo-repo using npm link:
+
+- run `npm link` in the current repository directory
+- switch to demo repository
+- run `npm i`
+- run `npm link <name-of-your-new-modeler>`
 
 ## Implementing a New Modeler
 

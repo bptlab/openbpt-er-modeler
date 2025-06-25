@@ -1,10 +1,10 @@
 {
-  "name": "openbpt-modeler-template",
+  "name": "openbpt-er-modeler",
   "version": "0.0.1",
-  "description": "Generic template based on diagram-js for modelers used in the OpenBPT platform.",
+  "description": "ER modeler based on diagram-js for use in the OpenBPT platform.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bptlab/openbpt-modeler-template"
+    "url": "https://github.com/bptlab/openbpt-er-modeler"
   },
   "author": "Maximilian König",
   "license": "MIT",
