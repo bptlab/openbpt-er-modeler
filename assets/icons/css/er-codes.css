@@ -1,4 +1,5 @@
 
-.er-icon-relationship:before { content: '\e802'; } /* '' */
-.er-icon-entity:before { content: '\e803'; } /* '' */
-.er-icon-attribute:before { content: '\e804'; } /* '' */
+.er-icon-primary-key:before { content: '\e800'; } /* '' */
+.er-icon-entity:before { content: '\e80a'; } /* '' */
+.er-icon-relationship:before { content: '\e80b'; } /* '' */
+.er-icon-attribute:before { content: '\e80c'; } /* '' */
