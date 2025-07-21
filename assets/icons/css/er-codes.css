@@ -3,3 +3,4 @@
 .er-icon-entity:before { content: '\e80a'; } /* '' */
 .er-icon-relationship:before { content: '\e80b'; } /* '' */
 .er-icon-attribute:before { content: '\e80c'; } /* '' */
+.er-icon-generalization:before { content: '\e80d'; } /* '' */
